@@ -1,4 +1,5 @@
 # ClockSecondsChooser
+> Enable or disable seconds in the Windows system tray clock on Windows 10 and 11.
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Release](https://img.shields.io/badge/release-v1-brightgreen)
